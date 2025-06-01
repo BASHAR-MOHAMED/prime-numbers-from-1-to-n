@@ -41,7 +41,7 @@ Prime numbers from 1 to 20:
 19
 ```
 
-👨‍💻 Author
+## 👨‍💻 Author
 Name: Bashar Mohamed
 
 Level: Advanced in C++
@@ -50,10 +50,11 @@ Focus: Clean code, data structures, algorithms
 
 Goal: Full Stack Desktop Developer 🚀
 
-💡 Future Improvements
+## 💡 Future Improvements
 Optimize using the Sieve of Eratosthenes
 
 Add GUI version using C++ frameworks like Qt
 
 Allow range input (from X to Y)
 
+---
